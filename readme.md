@@ -22,7 +22,8 @@ All models are integrated into a **standalone graphical interface**, built with 
 
 A simple **Windows application** is available. No installation or coding required.
 
-### 👉 [**Download the GUI (.exe)**]([https://your-download-link.com](https://owncloud.damutten.ch/s/Cra7SEfM62nY2sZ))
+### 👉 [**Download the GUI (.exe)**]([https://your-download-link.com](https://owncloud.damutten.ch/s/Cra7SEfM62nY2sZ)):
+https://owncloud.damutten.ch/s/Cra7SEfM62nY2sZ
 
 ### Steps:
 1. Run the executable
