@@ -36,15 +36,15 @@ https://owncloud.damutten.ch/s/Cra7SEfM62nY2sZ
 
 If you use this tool in your research, please cite:
 
-> **Ventricular volume and width quantification using deep convolutional networks incorporated in a graphical user interface**  
-> *Brain and Spine*, Volume 4, January 2024, 103478  
-> https://doi.org/10.1016/j.bas.2024.103478
->
 > **Fully automated volumetry of ventricular subregions on computed tomography using object detection and semantic segmentation**
 *NeuroImage: Reports*, Volume 6, Issue 1, 2026, 100325
 https://doi.org/10.1016/j.ynirp.2026.100325
-
 > Raffaele Da Mutten, Olivier Zanier, Alessandro Carretta, Giorgio Palandri, Massimo Bottini, Daniel de Wilde, Ulf C. Schneider, Luca Regli, Carlo Serra, Victor E. Staartjes
+>
+> **Ventricular volume and width quantification using deep convolutional networks incorporated in a graphical user interface**  
+> *Brain and Spine*, Volume 4, January 2024, 103478  
+> https://doi.org/10.1016/j.bas.2024.103478
+
 
 ⸻
 
